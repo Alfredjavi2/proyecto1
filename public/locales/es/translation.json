@@ -1,0 +1,16 @@
+{
+  "basic": {
+    "save": "Guardar",
+    "logout": "Salir",
+    "email": "Correo",
+    "password": "Contraseña",
+    "name": "Nombre",
+    "last_name": "Apellido",
+    "personal_phone": "Teléfono"
+  },
+  "auth": {
+    "bienvenida": "Bienvenido a Fructus Vía",
+    "f_pass": "¿Olvidaste tu Contraseña?",
+    "login": "Inicia Sesión"
+  }
+}
